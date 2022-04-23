@@ -5,7 +5,7 @@ function App() {
         <header>
           <img
             className="mb-4 text-[128px] font-black leading-[75%] break-all"
-            src="/syradar-logo.png"
+            src="syradar-logo.png"
             alt="syradar"
           />
 
@@ -52,7 +52,7 @@ function App() {
             </div>
             <img
               className="grayscale group-hover:grayscale-0 transition"
-              src="/yxans-klagan-logo.png"
+              src="yxans-klagan-logo.png"
               alt="Yxans klagan logo"
             />
           </a>
@@ -70,7 +70,7 @@ function App() {
             </div>
             <img
               className="grayscale group-hover:grayscale-0 transition"
-              src="/rk-logo.png"
+              src="rk-logo.png"
               alt="Rollspelskollektivet"
             />
           </a>
