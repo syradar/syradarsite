@@ -7,6 +7,8 @@ function App() {
             className="mb-4 text-[128px] font-black leading-[75%] break-all"
             src="syradar-logo.png"
             alt="syradar"
+            width="274"
+            height="175"
           />
 
           <h2>developer and designer</h2>
