@@ -11,7 +11,7 @@ export default defineConfig(({ command, mode }) => {
   } else {
     return {
       plugins: [react(), tsconfigPaths()],
-      base: '/syradarsite/'
+      base: './'
     }
   }
 })
