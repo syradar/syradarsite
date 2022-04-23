@@ -11,7 +11,7 @@ function App() {
             height="175"
           />
 
-          <h2>developer and designer</h2>
+          <h2>developer and designer in stockholm</h2>
           <h1 className="font-black">david malmström</h1>
         </header>
 
