@@ -4,7 +4,7 @@ function App() {
       <div className="flex flex-col justify-between p-4 max-w-[375px] h-full">
         <header>
           <img
-            className="mb-4 text-[128px] font-black leading-[75%]"
+            className="mb-4 text-[128px] font-black leading-[75%] break-all"
             src="/syradar-logo.png"
             alt="syradar"
           />
