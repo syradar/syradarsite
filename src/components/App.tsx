@@ -53,7 +53,7 @@ function App() {
             <img
               className="grayscale group-hover:grayscale-0 transition"
               src="/yxans-klagan-logo.png"
-              alt="Rollspelskollektivet"
+              alt="Yxans klagan logo"
             />
           </a>
 
