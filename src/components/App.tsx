@@ -19,7 +19,7 @@ function App() {
             className="p-2 bg-white rounded border border-slate-600"
             style={{ boxShadow: '4px 4px 0 0 #d11e87' }}
           >
-            <h2 className="mb-2">skills</h2>
+            <h2 className="">skills</h2>
             <ul className="flex flex-wrap gap-2 justify-between text-sm text-slate-600">
               <li>typescript</li>
               <li>angular</li>
