@@ -1,16 +1,14 @@
 {
-  "name": "reactjs-vite-tailwindcss-boilerplate",
-  "description": "This is a React + vite boilerplate to be used with Tailwindcss.",
-  "version": "0.4.0",
-  "private": true,
+  "name": "syradarsite",
+  "description": "personal website",
+  "license": "MIT",
+  "homepage": "https://david.malmstrom.me/",
+  "version": "1.0.0",
+  "private": false,
   "author": {
-    "name": "João Paulo Moraes",
-    "email": "joaopaulomoraes@outlook.com",
-    "url": "https://github.com/joaopaulomoraes"
-  },
-  "bugs": {
-    "url": "https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate/issues",
-    "email": "joaopaulomoraes@outlook.com"
+    "name": "David Malmström",
+    "email": "syntex@outlook.com",
+    "url": "https://github.com/syradar"
   },
   "scripts": {
     "dev": "vite",
